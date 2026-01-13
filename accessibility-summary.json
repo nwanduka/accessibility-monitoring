@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-01-13T18:09:58.353Z",
+    "url": "https://victorianduka.com/",
+    "violations": 2,
+    "passes": 33,
+    "incomplete": 0,
+    "inapplicable": 55,
+    "critical": 0,
+    "serious": 1,
+    "moderate": 1,
+    "minor": 0
+  },
+  {
+    "timestamp": "2026-01-13T18:13:51.183Z",
+    "url": "https://victorianduka.com/about/",
+    "violations": 1,
+    "passes": 34,
+    "incomplete": 0,
+    "inapplicable": 55,
+    "critical": 0,
+    "serious": 1,
+    "moderate": 0,
+    "minor": 0
+  },
+  {
+    "timestamp": "2026-01-13T18:14:08.576Z",
+    "url": "https://victorianduka.com/works/",
+    "violations": 1,
+    "passes": 34,
+    "incomplete": 0,
+    "inapplicable": 55,
+    "critical": 0,
+    "serious": 1,
+    "moderate": 0,
+    "minor": 0
+  },
+  {
+    "timestamp": "2026-01-13T18:14:25.325Z",
+    "url": "https://victorianduka.com/",
+    "violations": 2,
+    "passes": 33,
+    "incomplete": 0,
+    "inapplicable": 55,
+    "critical": 0,
+    "serious": 1,
+    "moderate": 1,
+    "minor": 0
+  }
+]
